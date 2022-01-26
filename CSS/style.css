@@ -1,0 +1,51 @@
+/* p.error{
+      color:brown;
+    }
+    .sucess
+    {
+      color:blue;
+    }
+    .sucess.feedback{
+      border:2px dotted green;
+    }
+    div#content{
+      background-color:#ebebeb;
+    } */
+
+    /* div p a{
+      color:red;
+    }
+    div p.error{
+      color:blue;
+    }
+    div.error{
+      color:green;
+    } */
+    /* 
+    a[href*="HelloWorld"]{
+      background-color:#ebefee;
+      color:red;
+      font-size:20px;
+      font-weight:bold;
+      text-transform:uppercase;
+      text-decoration:none;
+    }
+    a[href*=".com"]
+    {
+      color:green;
+      background:yellow;
+    } */
+    div{
+      color:red;
+      background:yellow;
+      border:4px solid green; 
+      margin:40px;
+    }
+    div p{
+      border:inherit;
+      margin:inherit;
+      color:purple;
+    }
+    p{
+      color:orange;
+    }

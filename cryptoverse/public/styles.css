@@ -1,0 +1,25 @@
+.pages{
+   margin-left: 280px; 
+}
+
+body{
+  /* background-color: whitesmoke; */
+}
+
+#news-card
+{
+  /* background-color: lightblue; */
+}
+#news-card:hover{
+ 
+  /* transform: scale(1.02); */
+
+}
+
+
+#crypto-card:hover{
+ 
+  /* transform: scale(1.03); */
+
+}
+ 
